@@ -8,7 +8,7 @@ var balls = [];
 var boats = [];
 var boatAnimation=[];
 var boatSpritedata, boatSpritesheet;
-var brokenBoatAnimation[];
+var brokenBoatAnimation=[];
 var brokenBoatSpritedata, brokenBoatSpritesheet
 
 function preload() {
